@@ -1,6 +1,6 @@
-Samy Achour
-Topics in Software Engineering
-Open Source
+Samy Achour,
+Topics in Software Engineering,
+Open Source,
 Assignment 2
 
 # SoccerQuiz
